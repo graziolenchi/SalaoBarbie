@@ -1,0 +1,33 @@
+input{
+    color: black;
+    display: block;
+    margin-bottom: 10px;
+    background-color:#e6d0e6 ;
+}
+
+textarea{
+    color: black;
+    background-color: #e6d0e6;
+}
+
+form {
+    flex: content;
+    background-color:#D8BFD8;
+    
+}
+
+label{
+    color: #8B008B;
+}
+
+legend{
+    color: #8B008B;
+}
+
+td{
+    color: #8B008B;
+}
+
+option{
+    background-color: #e6d0e6;
+}
